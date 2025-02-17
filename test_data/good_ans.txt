@@ -1,0 +1,9 @@
+File: "afe0_core3.pcm" - Errors: 0
+File: "afe0_core1.pcm" - Errors: 0
+File: "afe0_core6.pcm" - Errors: 0
+File: "afe0_core5.pcm" - Errors: 0
+File: "afe0_core7.pcm" - Errors: 0
+File: "afe0_core0.pcm" - Errors: 0
+File: "afe0_core4.pcm" - Errors: 0
+File: "afe0_core2.pcm" - Errors: 0
+Total errors count: 0
